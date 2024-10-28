@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios"],
+  "ios": {
+    "modules": ["PeelEffectModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.peeleffect.PeelEffectModule"]
+  }
+}
